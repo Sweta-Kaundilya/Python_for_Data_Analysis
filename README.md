@@ -1,2 +1,4 @@
-# Python_for_Data_Analysis
-Learning Python and all the relevant libraries in python for Data field.
+# Python for Data Analysis <br>
+This repository contains lessons and exercises in python for data analysis.
+
+
